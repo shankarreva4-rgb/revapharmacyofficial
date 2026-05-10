@@ -1,0 +1,11 @@
+name,description,price,category,stock,manufacturer,image
+Paracetamol,Pain relief medication,50,OTC,100,PharmaCorp,paracetamol.jpg
+Vitamin D3,For bone health,200,Diet & Nutrition,50,HealthVit,vitamin_d3.jpg
+Baby Lotion,Gentle lotion for babies,150,Baby Care,75,BabySoft,baby_lotion.jpg
+Blood Pressure Monitor,Digital BP monitor,1200,Health Devices,20,MediTech,bp_monitor.jpg
+Ayurvedic Oil,Traditional oil for joints,300,Khadi and Ayurveda,40,AyurLife,oil.jpg
+Elderly Vitamins,Multivitamin for seniors,250,Elderly Care,60,SeniorHealth,vitamins.jpg
+Cough Syrup,For cold and cough,80,Health Conditions,90,ColdCare,syrup.jpg
+Protein Powder,Whey protein supplement,800,Diet & Nutrition,30,FitnessPro,protein.jpg
+Diaper Rash Cream,Cream for diaper rash,120,Baby Care,60,BabyCare,cream.jpg
+Glucometer,Blood glucose monitor,1500,Health Devices,15,MediTech,glucometer.jpg
